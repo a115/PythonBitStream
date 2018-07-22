@@ -1,0 +1,7 @@
+{"name": "Bob the Builder",
+ "service": "General Construction",
+ "rate": 23.00,
+ "payment_info": {
+     "sort-code": "30-01-23",
+     "account": "020023"}
+}
