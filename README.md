@@ -1,5 +1,5 @@
-# PythonBitsStream
-Bits of Python - Keep improving your Python skills
+# PythonBitStream
+Bits of Python - Keep improving your Python skills, one bit at a time
 
 [Subscribe here (£3.98 / week)](https://pay.gocardless.com/AL0001SAM5BFXF)
 
@@ -7,7 +7,7 @@ N.B. Currently only available in the UK!
 
 ## What is it? 
 
-Bits of Python is a (paid) subscription-based learning resource for people interested in continuously and actively improving their Python skills. Whether you are learning Python or have been using it professionally for years, our promise is that you will find something new and interesting in every "bit" to help make your Python code better. 
+Bits of Python is a subscription-based learning resource for people interested in continuously and actively improving their Python skills. Whether you are learning Python or have been using it professionally for years, our promise is that you will find something new and interesting in every "bit" to help make your Python code better. 
 
 Each "bit" contains explorations around a concise, self-contained topic or mini-project. Bits are delivered by e-mail to paid subscribers and come with clean, well documented solutions, emphasising the "Pythonic way" of approaching common and non-trivial problems.
 
