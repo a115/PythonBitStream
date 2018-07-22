@@ -1,6 +1,8 @@
 # PythonBitsStream
 Bits of Python - Keep improving your Python skills
 
+[Subscribe here (£3.98 / week)](https://pay.gocardless.com/AL0001SAM5BFXF)
+
 N.B. Currently only available in the UK! 
 
 ## What is it? 
@@ -23,12 +25,12 @@ There are also challenges and mini-contests throughout the year, with prizes for
 
 ## How much does it cost? 
 
-_Basic subscription_ is £3.98 per week and includes every new bit delivered to you in PDF format by e-mail hot off the press, with weekly updates in-between.
+[Basic subscription](https://pay.gocardless.com/AL0001SAM5BFXF) is £3.98 per week and includes every new bit delivered to you in PDF format by e-mail hot off the press, with weekly updates in-between.
 
-The _Active Professional_ add-on is £14.98 per week. It includes priority support and access to the Top-Devs UK Slack instance, where you can discuss the bits with fellow members, pursue career progression or freelance work and get community support on any other Python-related topic.
+The [Active Professional](https://pay.gocardless.com/AL0001SAM6X1HH) add-on is £14.98 per week. It includes priority support and access to the Top-Devs UK Slack instance, where you can discuss the bits with fellow members, pursue career progression or freelance work and get community support on any other Python-related topic.
 
 ## Can I subscribe outside of the UK?
 
-If you do not reside in the UK, you are still welcome to subscribe to the Basic Subscription. You will be able to read the bits and e-mail updates and participate fully in the community activity on GitHub. You will, however, be ineligible to receive prizes for contest submissions. You will also not be eligible for the "Active Professional" upgrade and access to Slack. 
+If you do not reside in the UK, you are still welcome to [subscribe](https://pay.gocardless.com/AL0001SAM5BFXF) to the Basic Subscription. You will be able to read the bits and e-mail updates and participate fully in the community activity on GitHub. You will, however, be ineligible to receive prizes for contest submissions. You will also not be eligible for the "Active Professional" upgrade and access to Slack. 
 
 We do plan to launch in other countries in the future, so if we launch in your country, we will be happy to migrate your subscription and enable missing features. 
